@@ -1,0 +1,29 @@
+{
+  "entities": [
+    {
+      "aktivan": true,
+      "id": 1,
+      "naziv": "Osječko-baranjska"
+    },
+    {
+      "aktivan": true,
+      "id": 2,
+      "naziv": "Virovitičko-podravksa"
+    },
+    {
+      "aktivan": true,
+      "id": 3,
+      "naziv": "Zagrebačka"
+    },
+    {
+      "aktivan": true,
+      "id": 4,
+      "naziv": "Koprivničko-križevačka"
+    },
+    {
+      "aktivan": true,
+      "id": 5,
+      "naziv": "Bjelovarsko-bilogorska"
+    }
+  ]
+}
